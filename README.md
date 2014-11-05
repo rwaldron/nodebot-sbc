@@ -10,7 +10,8 @@ This is where we'll design our own single board computer that's specifically des
     + OpenWRT
     + ?
 - Processor
-    + Atheros (used on the Yun, Linino One)
+    + Atheros (Linino One)
+    + AR9331 (Arduino Yun)
     + AM335x 1GHz ARM® Cortex-A8 (BeagleBone Black)
     + Intel® Atom™ SoC dual-core CPU (Edison) \*
 - 32 Digital/PWM GPIOs
@@ -21,6 +22,10 @@ This is where we'll design our own single board computer that's specifically des
 - Built-in voltage regulation (want to hook up 2-6S Lipos)
 - ...?
 
+
+# Miscellaneous
+
+<img src="http://arduino.cc/en/uploads/Main/BridgeInShort.png">
 
 
 # Notes
